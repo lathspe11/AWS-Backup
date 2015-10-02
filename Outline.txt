@@ -1,0 +1,23 @@
+Outline 
+
+1 requirements gathering 
+	WMI Business rules seperate data into 3 categories 
+	Must be able to recreate WMI in case of a disaster. i.e. office and servers destroyed 
+	Data must be kept secure (no man in the middle attacks)
+	Data Can not be kept on site
+
+2 AWS investigation 
+	get a set of working keys for the account installed
+	create buckets 
+	develop command to use to transfer data
+
+3 truecrypt investigation
+	Install truecrypt open source
+
+4 backuppc investigation
+5 rough out of a process
+6 prototype scripts written
+7 initial process 
+8 Test and revise
+	too much data is collected. NFS server is far to large and cluttered.
+	Trim the data collected.
